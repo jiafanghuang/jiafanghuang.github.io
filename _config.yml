@@ -24,9 +24,9 @@ author:
   avatar           : "images/profile_pic.png"
   name             : "Mike Jiafang Huang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  bio              : "PhD candidate at Cornell University"
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "jh2737@cornell.edu" 
 
