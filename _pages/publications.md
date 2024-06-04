@@ -1,16 +1,27 @@
+
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+title:
+permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+### Peer-Reviewed Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+"[A Thousand Cuts: Cumulative Lead Exposure Reduces Academic Achievement](https://doi.org/10.3368/jhr.0222-12169R2)" with [Alex Hollingsworth][ah], [Ivan Rudik][ir], and [Nicholas J Sanders][njs]. *Journal of Human Resources* (Forthcoming). <a href="/files/research/lead-education.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+
+<h2 id="active">
+Active Research
+</h2>
+
+### Work-in-Progress
+
+"Flood Risk Information and Real Estate Investors’ Behavior: Evidence from New York City" (Job Market Paper)
+
+"After the Storm Surge: Hurricanes, Local Crime Rate and Federal Disaster Relief"
+
+
+[ah]: https://hollina.github.io/
+[ir]: https://ivanrudik.com/
+[njs]: https://njsanders.human.cornell.edu/njsanders/Intro.html
+
