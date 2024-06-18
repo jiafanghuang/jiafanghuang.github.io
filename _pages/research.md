@@ -15,7 +15,7 @@ Peer-Reviewed Publication
 Work in Progress
 </h2>
 
-"Flood Risk Information and Real Estate Investors’ Behavior: Evidence from New York City" (Job Market Paper)
+"Flood Risk Information Shock and Real Estate Investors’ Behavior: Evidence from New York City" (Job Market Paper)
 
 "After the Storm Surge: Hurricanes, Local Crime Rate and Federal Disaster Relief"
 
