@@ -15,7 +15,7 @@ Peer-Reviewed Publication
 Work in Progress
 </h2>
 
-"Flood Risk Information Shock and Real Estate Investors’ Behavior: Evidence from New York City" (Job Market Paper)
+"Natural Disasters and The Role of Expectation: Evidence from Hurricane Sandy" (Job Market Paper)
 
 "After the Storm Surge: Hurricanes, Local Crime Rate and Federal Disaster Relief"
 
